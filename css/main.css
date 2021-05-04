@@ -6,3 +6,34 @@
 .nav-menu {
     text-align: right;
 }
+.image-link{
+    text-decoration: none;
+}
+.report-header {
+    text-align: center;
+    margin: 0 0 80px;
+}
+.image-centered {
+    display: block;
+    margin: 0 auto;
+}
+.image-inline {
+    float: left;
+    margin-right: 10px
+}
+.report-block {
+    width: 500px;
+    margin: 20px auto;
+    background-color: gray;
+    padding: 30px;
+}
+.quote {
+    font-style: italic;
+    font-size: 20px;
+}
+.highlight {
+    font-style: normal;
+    font-size: 24px;
+    font-weight: bold;
+    color: red;
+}
